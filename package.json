@@ -1,0 +1,31 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This React series help You to gain deep concept",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilmeg/React_Journey.git"
+  },
+  "keywords": [],
+  "author": "Aniket Kumar Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilmeg/React_Journey/issues"
+  },
+  "homepage": "https://github.com/devilmeg/React_Journey#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "broweserslist":[
+    "last 2 version "
+  ]
+}
